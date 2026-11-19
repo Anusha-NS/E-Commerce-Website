@@ -26,7 +26,7 @@
 <body>
     <nav class="navbar">
         <div class="nav-content">
-            <div class="nav-brand">ShopEase</div>
+            <div class="nav-brand">ShopEase1</div>
             <div class="nav-links">
                 <a href="/" class="nav-link"><i class="fas fa-home"></i> Home</a> 
                 <a href="#" id="discount-link" class="nav-link"><i class="fa fa-tag fa-lg"></i>Discount</a> 
